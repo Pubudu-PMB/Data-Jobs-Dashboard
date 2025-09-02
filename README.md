@@ -5,6 +5,7 @@ See Full Dashboard Here - [App Power BI Link( https://app.powerbi.com/links/6eLy
 [Porfolio Dasboard](Data Jobs Dashboard.png)
 
 
+
 Data Preparation:
   Imported raw job market dataset into Power Query, performed trimming, cleaning, and transformations to ensure high-quality structured data.
 
